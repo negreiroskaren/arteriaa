@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Artéria</title>
+</head>
+<body>
+    <header>
+        <nav class="nav-bar">
+            <img class="arteria" src="arteria.png" alt="arteria.png">
+            <div class="nav-list">
+                <ul>
+                    <li class="nav-item"><a href="https://www.sistemafibra.org.br/sesi/imprensa/noticias/2081-projeto-de-estudantes-do-sesi-senai-sobradinho-vai-a-mostra-internacional-de-ciencia-e-tecnologia" class="nav-link">Sobre nós</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Dúvidas</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Contato</a></li>
+                </ul>
+            </div>
+            <div class="login-button">
+                <a href="cadastro.html">Junte-se a nós</a>
+            </div>
+        </nav>
+    </header>
+        <div class="img1">
+            <img src="agr.png">
+        </div>
+ </div>
+    <footer>
+    <p>&copy; 2023 - Todos os direitos reservados</p>
+    </footer>
+</body>
+
+
+
+</html>
